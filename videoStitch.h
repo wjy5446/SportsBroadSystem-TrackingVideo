@@ -1,0 +1,6 @@
+class CVideoStitch{
+private:
+
+public:
+
+};

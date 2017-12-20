@@ -1,0 +1,244 @@
+﻿  MainProcessDlg.cpp
+D:\opencv\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+MainProcessDlg.cpp(522): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files\VisualStudio12.0\VC\include\stdio.h(211) : 'fopen' 선언을 참조하십시오.
+MainProcessDlg.cpp(1570): warning C4244: '=' : 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(1818): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+          D:\Program Files\VisualStudio12.0\VC\include\io.h(323) : 'access' 선언을 참조하십시오.
+MainProcessDlg.cpp(2063): warning C4244: '=' : 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2064): warning C4244: '=' : 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2065): warning C4244: '=' : 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2079): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2079): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2216): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+MainProcessDlg.cpp(2217): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2219): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+MainProcessDlg.cpp(2220): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2281): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2309): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2389): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2390): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2391): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2410): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2411): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2412): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2478): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2524): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2528): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2233): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2233): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2244): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2271): warning C4101: 'TimeStart' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2271): warning C4101: 'TimeEnd' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2598): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2671): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2672): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2673): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2680): warning C4305: '인수' : 'int'에서 'bool'(으)로 잘립니다.
+MainProcessDlg.cpp(2761): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2762): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2763): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2782): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2783): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2784): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2830): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2831): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2832): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2894): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2940): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2944): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(2556): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2558): warning C4101: 'feature_found' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2559): warning C4101: 'feature_error' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3034): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3068): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3069): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3070): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3105): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3188): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3189): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3190): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3209): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3210): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3211): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3282): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3328): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3332): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3118): warning C4101: 'TimeStart_Optical' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2972): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3118): warning C4101: 'TimeEnd_Optical' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3005): warning C4101: 'end_harris' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2974): warning C4101: 'feature_found' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3005): warning C4101: 'start_harris' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(2975): warning C4101: 'feature_error' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3395): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3420): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3500): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3501): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3502): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3521): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3522): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3523): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3585): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3360): warning C4101: 'nInlierPt' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3349): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3349): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3360): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3385): warning C4101: 'TimeStart' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3393): warning C4101: 'distance' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3385): warning C4101: 'TimeEnd' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(3673): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3681): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3686): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3687): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3694): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3695): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3728): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+MainProcessDlg.cpp(3829): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3838): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3839): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3840): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3842): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3843): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3844): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3967): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3972): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3973): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3980): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3985): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3986): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3993): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(3994): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4139): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4148): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4149): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4150): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4152): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4153): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4154): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4263): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4264): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4265): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4181): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(4181): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(4379): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4380): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4380): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4382): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4383): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4383): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4394): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4399): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4400): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4407): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4412): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4413): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4420): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4421): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4566): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4575): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4576): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4577): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4579): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4580): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4581): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4749): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4750): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4876): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4885): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4886): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4887): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4889): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4890): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4891): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(4694): warning C4101: 'matchY_R' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(4694): warning C4101: 'matchX_R' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(4980): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+MainProcessDlg.cpp(4993): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+MainProcessDlg.cpp(5010): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+MainProcessDlg.cpp(5027): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5140): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5143): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5146): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5149): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5102): warning C4101: 'tmp2' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(5102): warning C4101: 'tmp1' :참조되지 않은 지역 변수입니다.
+MainProcessDlg.cpp(5194): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5195): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5317): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5319): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5322): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5324): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5327): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5329): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5332): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5334): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5592): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5593): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5598): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5599): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5602): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5603): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5604): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5606): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5607): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5608): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5609): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5618): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5619): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5628): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5633): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5671): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5691): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5692): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5723): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5724): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5729): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5730): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5733): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5734): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5735): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5737): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5738): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5739): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5740): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5748): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5749): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5756): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5765): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5808): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5829): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5830): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5861): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5862): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5867): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5868): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5871): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5872): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5873): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5875): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5876): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5877): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5878): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5886): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5887): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5894): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5903): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5949): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5950): warning C4244: '=' : 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5966): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(5967): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6020): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6021): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6022): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6023): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6036): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6037): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6038): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6039): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6052): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6053): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6054): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MainProcessDlg.cpp(6055): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5525): warning C4715: 'CMainProcessDlg::GetFrame' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ImageProcessing.vcxproj -> D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\.\Release\ImageProcessing.exe

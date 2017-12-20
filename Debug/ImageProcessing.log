@@ -1,0 +1,290 @@
+﻿  MainProcessDlg.cpp
+d:\opencv\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(522): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\visualstudio12.0\vc\include\stdio.h(211) : 'fopen' 선언을 참조하십시오.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(1570): warning C4244: '=' : 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(1818): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+          d:\program files\visualstudio12.0\vc\include\io.h(323) : 'access' 선언을 참조하십시오.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2063): warning C4244: '=' : 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2064): warning C4244: '=' : 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2065): warning C4244: '=' : 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2079): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2079): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2212): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2213): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2215): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2216): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2277): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2305): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2385): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2386): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2387): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2406): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2407): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2408): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2474): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2520): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2524): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2229): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2229): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2240): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2267): warning C4101: 'TimeStart' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2267): warning C4101: 'TimeEnd' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2594): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2667): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2668): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2669): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2676): warning C4305: '인수' : 'int'에서 'bool'(으)로 잘립니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2757): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2758): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2759): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2778): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2779): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2780): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2826): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2827): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2828): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2890): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2936): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2940): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2552): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2554): warning C4101: 'feature_found' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2555): warning C4101: 'feature_error' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3030): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3064): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3065): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3066): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3101): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3184): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3185): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3186): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3205): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3206): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3207): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3278): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3324): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3328): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3114): warning C4101: 'TimeStart_Optical' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2968): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3114): warning C4101: 'TimeEnd_Optical' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3001): warning C4101: 'end_harris' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2970): warning C4101: 'feature_found' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3001): warning C4101: 'start_harris' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(2971): warning C4101: 'feature_error' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3391): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3416): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3496): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3497): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3498): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3517): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3518): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3519): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3581): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3356): warning C4101: 'nInlierPt' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3345): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3345): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3356): warning C4101: 'nHomoPt' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3381): warning C4101: 'TimeStart' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3389): warning C4101: 'distance' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3381): warning C4101: 'TimeEnd' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3669): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3677): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3682): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3683): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3690): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3691): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3724): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3825): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3834): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3835): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3836): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3838): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3839): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3840): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3963): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3968): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3969): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3976): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3981): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3982): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3989): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(3990): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4135): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4144): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4145): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4146): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4148): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4149): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4150): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4259): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4260): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4261): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4177): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4177): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4375): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4376): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4376): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4378): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4379): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4379): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4390): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4395): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4396): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4403): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4408): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4409): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4416): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4417): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4562): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4571): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4572): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4573): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4575): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4576): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4577): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4745): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4746): warning C4244: '인수' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4872): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4881): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4882): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4883): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4885): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4886): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4887): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4690): warning C4101: 'matchY_R' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4690): warning C4101: 'matchX_R' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4976): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(4989): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5006): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5023): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5133): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5136): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5139): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5142): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5095): warning C4101: 'tmp2' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5095): warning C4101: 'tmp1' :참조되지 않은 지역 변수입니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5187): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5188): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5310): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5312): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5315): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5317): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5320): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5322): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5325): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5327): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5585): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5586): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5591): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5592): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5595): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5596): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5597): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5599): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5600): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5601): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5602): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5611): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5612): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5621): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5626): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5663): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5683): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5684): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5715): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5716): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5721): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5722): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5725): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5726): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5727): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5729): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5730): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5731): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5732): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5740): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5741): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5748): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5757): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5799): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5820): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5821): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5852): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5853): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5858): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5859): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5862): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5863): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5864): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5866): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5867): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5868): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5869): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5879): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5880): warning C4244: '=' : 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5887): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5896): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5937): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5942): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5959): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5960): warning C4244: '+=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6017): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6018): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6019): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6020): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6033): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6034): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6035): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6036): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6049): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6050): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6051): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(6052): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\trackingplayer\trackingplayer-kalman - view조작 - ver.2\newsr(20140106)\mainprocessdlg.cpp(5518): warning C4715: 'CMainProcessDlg::GetFrame' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+JpegLibD.lib(jcapimin.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcapimin.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcapistd.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcapistd.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jccoefct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jccoefct.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jccolor.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jccolor.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcdctmgr.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcdctmgr.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jchuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jchuff.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcinit.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcinit.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcmainct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcmainct.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcmarker.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcmarker.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcmaster.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcmaster.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcomapi.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcomapi.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcparam.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcparam.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcphuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcphuff.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcprepct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcprepct.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcsample.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcsample.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdapimin.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdapimin.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdapistd.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdapistd.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdatadst.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdatadst.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdatasrc.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdatasrc.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdcoefct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdcoefct.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdcolor.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdcolor.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jddctmgr.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jddctmgr.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdhuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdhuff.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdinput.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdinput.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmainct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmainct.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmarker.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmarker.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmaster.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmaster.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmerge.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmerge.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdphuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdphuff.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdpostct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdpostct.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdsample.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdsample.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jerror.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jerror.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jfdctflt.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jfdctflt.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jfdctfst.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jfdctfst.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jfdctint.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jfdctint.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctflt.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctflt.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctfst.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctfst.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctint.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctint.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctred.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctred.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jmemmgr.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jmemmgr.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jmemnobs.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jmemnobs.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(JpegProcess.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(JpegProcess.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jquant1.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jquant1.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jquant2.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jquant2.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jutils.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jutils.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(Main.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(Main.obj)' 또는 'D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  ImageProcessing.vcxproj -> D:\Source\Program\TrackingPlayer\TrackingPlayer-kalman - View조작 - ver.2\NewSR(20140106)\.\Debug\ImageProcessing.exe

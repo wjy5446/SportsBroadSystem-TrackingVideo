@@ -32,7 +32,7 @@
 - So, we detect misleading homography using the validation equation
 
 
-![head](https://github.com/wjy5446/Real-time-video-stitching/blob/master/image/template_matching.png)
+![head](https://github.com/wjy5446/SportsBroadSystem-TrackingVideo/blob/master/image/template_matching.png)
 
 - When find misleading homography, we use translation vector using block matching.
 
